@@ -1,8 +1,4 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+nacos/nacos-server:v2.3.2 
 
 langgenius/dify-api:0.6.10
 langgenius/dify-web:0.6.10
