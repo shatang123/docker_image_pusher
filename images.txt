@@ -3,3 +3,12 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
+
+langgenius/dify-api
+langgenius/dify-web
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+nginx
