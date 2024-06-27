@@ -1,3 +1,4 @@
+sqlchat/sqlchat:latest
 rabbitmq:3.13.3-alpine
 nacos/nacos-server:v2.3.2 
 ollama/ollama:0.1.44
