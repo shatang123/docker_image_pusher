@@ -1,7 +1,7 @@
 sqlchat/sqlchat:latest
 rabbitmq:3.13.3-alpine
 nacos/nacos-server:v2.3.2 
-ollama/ollama:0.1.44
+ollama/ollama:0.1.47
 
 langgenius/dify-api:0.6.11
 langgenius/dify-web:0.6.11
