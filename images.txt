@@ -1,4 +1,5 @@
- minio/minio:RELEASE.2024-07-16T23-46-41Z.fips
+minio/mc:RELEASE.2023-04-12T02-21-51Z
+minio/minio:RELEASE.2024-07-16T23-46-41Z.fips
 1panel/maxkb:v1.3.1
 mysql:8.0
 supersonicbi/supersonic:latest
