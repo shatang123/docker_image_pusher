@@ -1,22 +1,3 @@
-# qdrant/qdrant
-# minio/minio:RELEASE.2021-08-25T00-41-18Z.hotfix.f0561c7d8
-# # minio/minio:RELEASE.2022-05-08T23-50-31Z.hotfix.33543290d
-# minio/minio:RELEASE.2022-12-12T19-27-27Z.fips
-# minio/minio:RELEASE.2024-07-16T23-46-41Z.fips
-# minio/mc:RELEASE.2023-04-12T02-21-51Z
-# minio/minio:RELEASE.2024-07-16T23-46-41Z.fips
-# 1panel/maxkb:v1.3.1
-# mysql:8.0
-# supersonicbi/supersonic:latest
-# chromadb/chroma:0.5.3
-# portainer/agent:2.19.5
-# 6053537/portainer-ce:latest
-# sqlchat/sqlchat:latest
-# rabbitmq:3.13.3-alpine
-# nacos/nacos-server:v2.3.2 
-# ollama/ollama:0.1.47
-
-
 langgenius/dify-api:0.6.15
 langgenius/dify-web:0.6.15
 postgres:15-alpine
