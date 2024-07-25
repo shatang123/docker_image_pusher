@@ -17,8 +17,8 @@ nacos/nacos-server:v2.3.2
 ollama/ollama:0.1.47
 
 
-langgenius/dify-api:0.6.14
-langgenius/dify-web:0.6.14
+langgenius/dify-api:0.6.15
+langgenius/dify-web:0.6.15
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
