@@ -1,3 +1,22 @@
+ollama/ollama:0.3.0
+langgenius/dify-api:0.6.15
+langgenius/dify-web:0.6.15
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+nginx
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.2.0
+ghcr.io/chroma-core/chroma:0.5.1
+container-registry.oracle.com/database/free:latest
+quay.io/coreos/etcd:v3.5.5
+milvusdb/milvus:v2.3.1
+opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest
+
 # qdrant/qdrant
 # minio/minio:RELEASE.2021-08-25T00-41-18Z.hotfix.f0561c7d8
 # # minio/minio:RELEASE.2022-05-08T23-50-31Z.hotfix.33543290d
