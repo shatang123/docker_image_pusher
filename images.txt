@@ -1,4 +1,4 @@
-maxkb:v1.4.0
+1panel/maxkb:v1.4.0
 openjdk:8
 langgenius/dify-api:0.6.16
 langgenius/dify-web:0.6.16
