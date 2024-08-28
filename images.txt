@@ -1,2 +1,1 @@
-langgenius/dify-api:0.7.2
-langgenius/dify-web:0.7.2
+redis:6.2.14
