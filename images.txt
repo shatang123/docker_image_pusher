@@ -1,1 +1,1 @@
-bladex/alpine-java:openjdk8-openj9_cn_slim
+rabbitmq:3.9.29-management
