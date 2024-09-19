@@ -1,1 +1,1 @@
-rabbitmq:3.8.34
+elasticsearch:7.17.0
