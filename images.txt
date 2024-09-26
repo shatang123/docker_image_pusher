@@ -1,1 +1,3 @@
-kibana:7.17.0
+axizdkr/tengine
+minio/minio:RELEASE.2021-06-17T00-10-46Z
+xuxueli/xxl-job-admin:2.2.0
