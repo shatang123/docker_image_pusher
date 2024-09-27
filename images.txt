@@ -1,2 +1,1 @@
-kibana:7.14.0
-redis:6.0.9-alpine
+elasticsearch:7.14.0
