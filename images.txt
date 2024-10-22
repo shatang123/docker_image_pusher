@@ -1,1 +1,4 @@
-kodcloud/kodbox:v1.4505
+langgenius/dify-api:0.10.0
+langgenius/dify-web:0.10.0
+langgenius/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.19.0
