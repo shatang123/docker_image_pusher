@@ -1,1 +1,1 @@
-xprobe/xinference:v1.1.0
+gpustack/gpustack:latest
