@@ -1,1 +1,1 @@
-rancher/rancher:stable
+drakkan/sftpgo:v2.6.4-alpine
