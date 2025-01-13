@@ -1,1 +1,2 @@
-drakkan/sftpgo:v2.6.4-alpine
+langgenius/dify-api:0.15.0
+langgenius/dify-web:0.15.0
