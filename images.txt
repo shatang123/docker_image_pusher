@@ -1,1 +1,2 @@
-neo4jchina/neo4j-chs:5.26.2
+langgenius/dify-api:v1.0.0
+langgenius/dify-web:v1.0.0
