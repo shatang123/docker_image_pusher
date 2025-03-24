@@ -1,1 +1,1 @@
-docker.redpanda.com/redpandadata/console:v2.8.4
+xuxueli/xxl-job-admin:2.5.0
