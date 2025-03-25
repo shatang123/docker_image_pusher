@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.5.0
+apache/hive:4.0.1
