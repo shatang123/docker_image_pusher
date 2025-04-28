@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.11
+onlyoffice/documentserver-de:8.2.3
