@@ -1,1 +1,1 @@
-redis:8.0.0
+elasticsearch:8.18.0
