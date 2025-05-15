@@ -1,2 +1,1 @@
-ghcr.io/astral-sh/uv:python3.12-bookworm-slim
-ghcr.io/astral-sh/uv:latest
+docker.io/library/node:20-alpine
