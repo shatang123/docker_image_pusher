@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.8
+searxng/searxng:2025.5.14-b42f812
