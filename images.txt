@@ -1,1 +1,2 @@
-searxng/searxng:2025.5.14-b42f812
+ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+ghcr.io/astral-sh/uv:latest
