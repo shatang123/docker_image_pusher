@@ -1,1 +1,1 @@
- node:20
+onlyoffice/documentserver:8.3
