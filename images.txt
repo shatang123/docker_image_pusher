@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.3.3
+docker pull onlyoffice/documentserver:8.2
