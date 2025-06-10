@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.2
+xuxueli/xxl-job-admin:2.3.0
