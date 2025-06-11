@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.3.0
+6053537/portainer-ce:2.24.1
