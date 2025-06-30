@@ -1,1 +1,1 @@
-6053537/portainer-ce:2.24.1
+searxng/searxng:2025.6.29-60be0f4
