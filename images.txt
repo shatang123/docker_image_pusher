@@ -1,1 +1,2 @@
-searxng/searxng:2025.6.29-60be0f4
+langgenius/dify-api:1.6.0
+langgenius/dify-web:1.6.0
