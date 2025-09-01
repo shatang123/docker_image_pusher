@@ -1,1 +1,1 @@
- neo4jchina/neo4j-chs:5.26.9
+mem0/openmemory-mcp:latest
