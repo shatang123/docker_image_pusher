@@ -1,1 +1,1 @@
-mem0/openmemory-mcp:latest
+searxng/searxng:2025.9.9-97ed5ef
