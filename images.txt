@@ -1,1 +1,5 @@
-searxng/searxng:2025.9.9-97ed5ef
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev5
+mysql:8.0.39
+valkey/valkey:8
+elasticsearch:8.11.3
